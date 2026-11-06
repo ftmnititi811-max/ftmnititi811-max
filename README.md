@@ -10,7 +10,8 @@
 
 
 ## My works & contributions
-
+- <a href="https://ftmnititi811-max.github.io/2026_TamaFes_formock/">CDMTs-payment-application<a/><br>
+学園祭のモバイルオーダー決済システムにおいて、Ver 2.0における決済周りの改修をしました。具体的には、クレジットカードだけでなくPayPayを使用できるように、それに伴って変更された決済代行会社の乗り換えによるシステム改変を行いました。上記のリンクはそれをMockとして独立させたものです。<a href="https://github.com/Shrssss/CDMTs-payment-application">開発リポジトリはこちらから</a>
 
 <!--
 **ftmnititi811-max/ftmnititi811-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
